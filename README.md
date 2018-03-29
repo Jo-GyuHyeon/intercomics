@@ -293,10 +293,10 @@ constants.js
 ## Result
 
 <p align="center">
-  <img width="200" src="./result1.jpeg">
-  <img width="200" src="./result2.jpeg">
-  <img width="200" src="./result3.jpeg">
-  <img width="200" src="./result4.jpeg">
+  <img width="200" src="./result1.png">
+  <img width="200" src="./result2.png">
+  <img width="200" src="./result3.png">
+  <img width="200" src="./result4.png">
 </p>
 
 ---
